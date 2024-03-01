@@ -1,7 +1,5 @@
 # Apache-Spark-and-Databricks-Stream-Processing-in-Lakehouse
 This is the central repository for all the materials related to <em>Apache Spark and Databricks Stream Processing in Lakehouse</em> <br>Course by Prashant Kumar Pandey.
-<br> You can get the full course at <a href="https://www.udemy.com/course/spark-streaming-using-python/?referralCode=127B048D9EBD2D1278DC"> 
-  Apache Spark and Databricks Stream Processing in Lakehouse @ Udemy.
 </a>
 
 <div>
