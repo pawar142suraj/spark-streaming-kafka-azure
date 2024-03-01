@@ -20,7 +20,7 @@ This is for software engineers willing to develop a Real-time Stream Processing 
 
 <h3>Spark and source code version</h3>
 <p align="justify">
-This Course is using the Apache Spark 3.5. I have tested all the source code and examples used in this Course on Azure Databricks Cloud using Databricks Runtime 14.1.
+This is using the Apache Spark 3.5. I have tested all the source code and examples used in this Course on Azure Databricks Cloud using Databricks Runtime 14.1.
 </p>
 
 </div>
